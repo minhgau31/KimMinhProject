@@ -13,14 +13,14 @@ public class PlayerBehavior : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "smallBullet")
+        if (collision.tag == "smallBullet")
         {
             Health = Health - 5;
         }
 
-        else if (collision.gameObject.tag == "mediumBullet")
+        else if (collision.tag == "mediumBullet")
         {
             Health = Health - 10;
         }
