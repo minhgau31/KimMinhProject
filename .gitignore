@@ -58,6 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Game/UserSettings/EditorUserSettings.asset
-Game/UserSettings/EditorUserSettings.asset
-Game/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+KimMinhProject/UserSettings/EditorUserSettings.asset
+KimMinhProject/UserSettings/EditorUserSettings.asset
+KimMinhProject/ProjectSettings/Packages/com.unity.probuilder/Settings.json
