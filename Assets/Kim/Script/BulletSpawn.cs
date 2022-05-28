@@ -22,6 +22,7 @@ public class BulletSpawn : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            Debug.Log("asasa");
             Debug.Log("Shoot");
             Shoot();
         }

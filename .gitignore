@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,42 +58,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Game/UserSettings/EditorUserSettings.asset
-Game/UserSettings/EditorUserSettings.asset
-Game/ProjectSettings/Packages/com.unity.probuilder/Settings.json
-Library/ArtifactDB
-Library/CurrentLayout-default.dwlt
-Library/SceneVisibilityState.asset
-Library/SourceAssetDB
-UserSettings/EditorUserSettings.asset
-Logs/shadercompiler-UnityShaderCompiler.exe9.log
-Logs/shadercompiler-UnityShaderCompiler.exe8.log
-Logs/shadercompiler-UnityShaderCompiler.exe7.log
-Logs/shadercompiler-UnityShaderCompiler.exe6.log
-Logs/shadercompiler-UnityShaderCompiler.exe5.log
-Logs/shadercompiler-UnityShaderCompiler.exe4.log
-Logs/shadercompiler-UnityShaderCompiler.exe3.log
-Logs/shadercompiler-UnityShaderCompiler.exe2.log
-Logs/shadercompiler-UnityShaderCompiler.exe11.log
-Logs/shadercompiler-UnityShaderCompiler.exe10.log
-Logs/shadercompiler-UnityShaderCompiler.exe1.log
-Logs/shadercompiler-UnityShaderCompiler.exe0.log
-Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-Library/SourceAssetDB
-Library/ShaderCache/EditorEncounteredVariants
-Library/SceneVisibilityState.asset
-Library/ArtifactDB
-Library/CurrentLayout-default.dwlt
-Library/LastSceneManagerSetup.txt
-Library/SceneVisibilityState.asset
-Library/ArtifactDB
-Library/SceneVisibilityState.asset
-Library/ShaderCache/EditorEncounteredVariants
-Library/SourceAssetDB
-Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-UserSettings/EditorUserSettings.asset
-Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-Library/SourceAssetDB
-Library/SceneVisibilityState.asset
-Library/ArtifactDB
-Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
